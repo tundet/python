@@ -1,2 +1,2 @@
-# python
-python exercises
+# Viope Course
+Python Programming Exercises
